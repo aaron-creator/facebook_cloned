@@ -57,3 +57,33 @@ body {
 .sub-btn:hover {
   background-color: darkblue;
 }
+
+.main {
+  background: linear-gradient(white, #d3d8e8);
+  width: 100%;
+  height: 600px;
+}
+
+.left-section {
+  width: 50%;
+  float: left;
+  padding-left: 134px;
+  padding-top: 52px;
+}
+
+.para {
+  font-weight: bold;
+  font-size: 21px;
+}
+.image {
+  width: 570px;
+}
+.right-section {
+  width: 40%;
+  float: left;
+}
+
+.account-label {
+  width: 50%;
+  float: left;
+}
