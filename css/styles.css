@@ -49,4 +49,11 @@ body {
 .sub-btn {
   background-color: #4267b2;
   color: #fff;
+  height: 20px;
+  border-color: #29487d;
+  cursor: pointer;
+}
+
+.sub-btn:hover {
+  background-color: darkblue;
 }
